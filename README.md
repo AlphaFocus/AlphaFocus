@@ -7,7 +7,7 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
+- 📫 How to reach me: aldista911@icloud.com
 - ⚡ Fun fact: Father of a daughter
 
 ### Tech Stack
@@ -21,14 +21,13 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/aldista911">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldista911&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://www.linkedin.com/in/achsanu-amala-933a36216/">LinkedIn</a>
+- aldista911@icloud.com
+- <a href="https://twitter/aldista911">Twitter</a>
