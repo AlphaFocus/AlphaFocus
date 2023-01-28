@@ -2,13 +2,12 @@
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+<!-- - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a> -->
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: axleration911@gmail.com
-- ⚡ Fun fact: Father of a daughter
+<!-- - ⚡ Fun fact: Father of a daughter -->
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -28,5 +27,6 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/achsanu-amala-933a36216/">LinkedIn</a>
-- axleration911@gmail.com
 - <a href="https://twitter/aldista911">Twitter</a>
+- axleration911@gmail.com
+
