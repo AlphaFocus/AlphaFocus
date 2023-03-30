@@ -19,9 +19,9 @@ I'm an independent Software Engineer who loves to create and share projects abou
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/axleration911">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=axleration911&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=axleration911&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AlphaFocus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlphaFocus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlphaFocus&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
